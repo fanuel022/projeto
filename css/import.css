@@ -1,0 +1,52 @@
+/*** Cores */
+:root {
+	--cor-vermelho: #f90e50;
+}
+
+/*** Fontes */
+@font-face {
+	font-family: 'roboto-light';
+	src: url('Roboto-Light.ttf');
+}
+
+@font-face {
+	font-family: 'roboto-regular';
+	src: url('Roboto-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'roboto-medium';
+	src: url('Roboto-Medium.ttf');
+}
+
+@font-face {
+	font-family: 'roboto-bold';
+	src: url('Roboto-Bold.ttf');
+}
+
+@font-face {
+	font-family: 'roboto-black';
+	src: url('Roboto-Black.ttf');
+}
+
+@font-face {
+	font-family: 'starlive';
+	src: url('Starlive.ttf');
+}
+
+/*** Swiper */
+.swiper-container {
+	width: 100%;
+	height: 100%;
+}
+
+.swiper-contendo {
+	width: 100%;
+	height: 100%;
+}
+
+.swiper-contencao {
+	width: 100%;
+	height: 100%;
+	padding: 60px 0;
+}
